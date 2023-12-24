@@ -1,0 +1,13 @@
+{
+    "name": "top-form-signup",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+      "watch:sass": "sass --no-source-map --watch ./sass:./css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
